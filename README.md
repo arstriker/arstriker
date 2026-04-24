@@ -1,4 +1,10 @@
  ## Hi there 👋
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=AI+%26+ML+Engineering+Student+%F0%9F%A7%A0;Python+%2B+LLM+Builder+%F0%9F%9A%80;Shipping+ideas+before+they%27re+ready+%E2%9A%A1;Vibe+Coder.+Real+Problems.+Actual+Fixes.+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
+
+<br/>
 # 💫 About Me:
 I’m Arohan AR - a curious builder, AI tinkerer, and tech enthusiast who loves turning ideas into code that actually does something cool.<br>Right now, I’m diving deep into AI, ML, and intelligent systems, experimenting with tools that make technology more human-friendly and meaningful.<br><br>💡 What I’m into:<br><br>    Building with Python, LangChain, Streamlit, and Ollama<br><br>    Playing around with RAG systems, chatbots, and local LLMs<br><br>    Designing AI-driven tools that solve real problems - from college support chatbots to smart farming concepts<br><br>🧠 Things I’ve built:<br><br>    🤖 RAG-Based AI Chatbot for College Customer Support – a hallucination-free assistant using local LLMs and vector databases.<br><br>    🌾 Eco-Synergy – an AI-powered smart companion planting system that supports biodiversity and sustainable farming.<br><br>    🌱 Currently exploring:<br><br>    Open-source AI frameworks<br><br>    Local LLM optimization and deployment<br><br>    Blending creativity, design, and AI into real-world applications
 
