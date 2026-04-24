@@ -19,7 +19,6 @@ I’m Arohan AR - a curious builder, AI tinkerer, and tech enthusiast who loves 
   <img src="https://github-readme-stats.vercel.app/api?username=arstriker&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arstriker&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arstriker&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arstriker&icon=0&color=0)](https://visitcount.itsvg.in)
